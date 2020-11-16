@@ -1,0 +1,21 @@
+{
+"name":"Toronto Raptor",
+"data":
+[
+  {
+    "name":"Balcony Level",
+    "price": 1000,
+    "stock": 100
+  },
+  {
+    "name":"Lower Level",
+    "price":2000 ,
+    "stock": 100
+  },
+  {
+    "name":"Courtside",
+    "price": 5000,
+    "stock": 100
+  }
+]
+}
